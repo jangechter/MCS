@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "2c1e4309-b8b1-489f-acd1-9c8b13eac738",
+    "name": "Datenfresser",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e061c405-e9a1-405d-9a9e-6ceefedabb78",
+    "name": "MasterDMark",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

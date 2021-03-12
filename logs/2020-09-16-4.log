@@ -1,0 +1,25 @@
+[19:27:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[19:27:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:27:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:27:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:27:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:27:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:27:07] [main/INFO]: Reloading ResourceManager: Default
+[19:27:08] [Worker-Main-14/INFO]: Loaded 7 recipes
+[19:27:09] [Worker-Main-14/INFO]: Loaded 927 advancements
+[19:27:10] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[19:27:10] [Server thread/INFO]: Loading properties
+[19:27:10] [Server thread/INFO]: Default game type: SURVIVAL
+[19:27:10] [Server thread/INFO]: Generating keypair
+[19:27:10] [Server thread/INFO]: Starting Minecraft server on 25.106.119.140:25565
+[19:27:10] [Server thread/INFO]: Using default channel type
+[19:27:11] [Server thread/INFO]: Preparing level "world"
+[19:27:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:27:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:27:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:27:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:27:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:27:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:27:14] [Server thread/INFO]: Preparing spawn area: 83%
+[19:27:15] [Server thread/INFO]: Time elapsed: 4134 ms
+[19:27:15] [Server thread/INFO]: Done (4.237s)! For help, type "help"
