@@ -10,5 +10,17 @@
     "name": "MasterDMark",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0d387f01-945f-44c7-8632-932ee837d79e",
+    "name": "BlueSpark",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b7d45a46-dd5c-4fab-b9a3-2782545f3b41",
+    "name": "BlueSparko",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
